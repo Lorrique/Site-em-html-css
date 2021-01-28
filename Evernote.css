@@ -5,6 +5,7 @@
   padding: 0;
   margin: 0;
   list-style: none;
+  text-decoration: none;  
 }
 body{
     font-family: sans-serif;
@@ -85,7 +86,7 @@ header{
     color: greenyellow;
     border-color: greenyellow;
 }
-/* main */
+/* Planos */
 .main-title{
     text-align: center;
     font-size: 60px;
@@ -116,8 +117,9 @@ header{
 }
 .plans-logo{
     margin-left: 80px;
-    width: 150px;
-    height: 250px;
+    width: 154px;
+    height: 257px;
+    padding-bottom: 50px;
 }
 .plan-list{
     display:block;
@@ -172,6 +174,7 @@ header{
     padding: 13px 80px;
     text-decoration: none;
     color: green;
+    transition: 500ms;
 }
 .button3{
     font-size: 14px;
@@ -183,6 +186,7 @@ header{
     color: #ffffff;   
     background-color: green;
     font-weight: bold;
+    transition: 500ms;
 }
 .button4{
     font-size: 14px;
@@ -191,17 +195,107 @@ header{
     border-radius: 5px;
     padding: 13px 50px;
     text-decoration: none;
-    color: green;   
+    color: green;
+    transition: 500ms;   
 }
 .button2:hover{
-    color: greenyellow;
-    border-color: greenyellow;
+    color: #ffffff;
+    background-color: green;
+    
 }
 .button4:hover{
-    color: greenyellow;
-    border-color: greenyellow;
+    color: #ffffff;
+    background-color: green;
 }
 .button3:hover{
-    color: greenyellow;
-    border-color: greenyellow;
+    background-color: lightgreen;
+    border-color: lightgreen;
+}
+/* informacoes adicionais */
+.box3{
+    position: relative;
+    width: 1300px;
+    margin: 0 15% 0 15%;
+    padding-bottom: 100px;
+}
+.linhadeseparacao{
+    padding-bottom: 5%;
+}
+.main-title2{
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    padding-bottom: 3%;
+}
+.info-text{
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    max-width: 500px;
+    margin-left: 30%;
+    line-height: 24px;
+}
+.box4{
+    align-content: center;
+    width: 950px;
+    margin: 0 auto;
+    display: flex;
+    padding-bottom: 100px;
+}
+.community-leaders{
+    width: 45%;
+    margin-right: 5%;
+}
+.community-consultans{
+    width: 45%;
+    margin-left: 5%;
+}
+.community-logo1{
+    float: left;
+    width: 169px;
+    height: 209px;
+}
+.community-logo2{
+    float: left;
+    width: 169px;
+    height: 209px;
+}
+.main-title3{
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 1em;
+}
+.community-text{
+    font-size: 13px;
+    line-height: 21px;
+    padding-bottom: 2em;
+}
+.community-link{
+    font-size: 13px;
+    border-bottom: 2px solid green;
+    color: #000000;
+}
+.community-link:hover{
+    color: green;
+}
+
+.text-box{
+    width: 950px;
+    margin: 0 auto;
+    padding-bottom: 100px;
+}
+.info-text2{
+    font-size: 13px;
+    opacity: 0.5;
+}
+.list{
+    width: 1000px;
+    margin: 0 auto;
+    padding-bottom: 100px;
+}
+.logo2{
+    border-bottom: 5px solid #000000;
+    padding-bottom: 75px;
+    max-width: 1000px;
 }

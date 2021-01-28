@@ -87,6 +87,11 @@ header{
     border-color: greenyellow;
 }
 /* Planos */
+.box1{
+    width: 950px;
+    margin: 0 auto;
+    padding-bottom: 100px;
+}
 .main-title{
     text-align: center;
     font-size: 60px;

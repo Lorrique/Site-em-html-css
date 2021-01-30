@@ -294,13 +294,91 @@ header{
     font-size: 13px;
     opacity: 0.5;
 }
-.list{
+.footerH{
     width: 1000px;
     margin: 0 auto;
-    padding-bottom: 100px;
-}
-.logo2{
+    padding-bottom: 50px;
     border-bottom: 5px solid #000000;
-    padding-bottom: 75px;
-    max-width: 1000px;
+}
+.footerList{
+    padding-top: 50px;
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+}
+.prod-list{
+    display: flex;
+    flex-direction: column;
+    width: 190px;
+}
+.recu-list{
+    display: flex;
+    flex-direction: column;
+    width: 190px;
+}
+.comu-list{
+    display: flex;
+    flex-direction: column;
+    width: 190px;
+}
+.sup-list{
+    display: flex;
+    flex-direction: column;
+    width: 190px;
+}
+.empre-list{
+    display: flex;
+    flex-direction: column;
+    width: 190px;
+}
+.footer-tittle{
+    font-size: 14px;
+    text-transform: uppercase;
+    padding-bottom: 25px;
+}
+.footer-info{
+    padding-bottom: 25px;
+    font-size: 14px;
+}
+.footer-list{
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+}
+.fim{
+    padding-top: 100px;
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(136,139,141,0.5);
+    padding-bottom: 35px;
+}
+.fim p{
+    font-size: 12px;
+}
+.icons{
+    width: 312px;
+}
+.icon{
+    padding-right: 15px;
+}
+.fim2{
+    padding-top: 35px;
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.fim2-list{
+    display: flex;
+    padding-bottom: 50px;
+}
+.copyright{
+    font-size: 12px;
+    opacity: 0.5;
+}
+.copyright-item{
+    font-size: 12px;
+    padding-right: 15px;
 }

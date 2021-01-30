@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/social/youtube/white</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="22.7096774 7.99999355 22.7096774 0 0 0 0 7.99999355 0 15.9999871 22.7096774 15.9999871"></polygon>
+    </defs>
+    <g id="icons/social/youtube/white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons/Social/Facebook">
+            <g id="Page-1" transform="translate(5.000000, 8.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M9.15909091,11.0172841 L9.15909091,5.66453409 L13.8636364,8.34101136 L9.15909091,11.0172841 Z M19.6238409,3.98030682 C19.4168409,3.20078409 18.8068864,2.58694318 18.0324773,2.37861364 C16.6287841,2 11,2 11,2 C11,2 5.37121591,2 3.96752273,2.37861364 C3.19311364,2.58694318 2.58315909,3.20078409 2.37615909,3.98030682 C2,5.39310227 2,8.34090909 2,8.34090909 C2,8.34090909 2,11.2886136 2.37615909,12.7015114 C2.58315909,13.4810341 3.19311364,14.094875 3.96752273,14.3033068 C5.37121591,14.6818182 11,14.6818182 11,14.6818182 C11,14.6818182 16.6287841,14.6818182 18.0324773,14.3033068 C18.8068864,14.094875 19.4168409,13.4810341 19.6238409,12.7015114 C20,11.2886136 20,8.34090909 20,8.34090909 C20,8.34090909 20,5.39310227 19.6238409,3.98030682 Z" id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

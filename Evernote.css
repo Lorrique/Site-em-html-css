@@ -17,8 +17,9 @@ header{
 .box{
     position: relative;
     display: flex;
-    width: 1220px;
-    margin: 0 15% 0 15%;
+    align-content: center;
+    width: 1500px;
+    margin: 0 auto;
     height: 80px;
 }
 .logo{
@@ -88,7 +89,7 @@ header{
 }
 /* Planos */
 .box1{
-    width: 950px;
+    width: 1000px;
     margin: 0 auto;
     padding-bottom: 100px;
 }
@@ -100,25 +101,26 @@ header{
 .box2{
     display: flex;
     position: relative;
-    width: 1300px;
-    margin: 0 15% 0 15%;
+    width: 1500px;
+    margin: 0 auto;
     padding: 100px 0;
     text-align: center;
+    justify-content: space-between;
 }
 .basic-plan{
     text-align: center;
-    margin-left: 40px;
+    
     width: 30%;
 }
 .business-plan{
     text-align: center;
     width: 30%;
-    margin: 0 3.3% 0 3.3%;
+    
 }
 .premium-plan{
     text-align: center;
     width: 30%;
-    margin: 0 3.3% 0 3.3%;
+    
 }
 .plans-logo{
     margin-left: 80px;
@@ -176,7 +178,7 @@ header{
     box-sizing: border-box;
     border: 2px solid green;
     border-radius: 5px;
-    padding: 13px 80px;
+    padding: 13px 110px;
     text-decoration: none;
     color: green;
     transition: 500ms;
@@ -186,7 +188,7 @@ header{
     box-sizing: border-box;
     border: 2px solid green;
     border-radius: 5px;
-    padding: 13px 45px;
+    padding: 13px 80px;
     text-decoration: none;
     color: #ffffff;   
     background-color: green;
@@ -198,7 +200,7 @@ header{
     box-sizing: border-box;
     border: 2px solid green;
     border-radius: 5px;
-    padding: 13px 50px;
+    padding: 13px 80px;
     text-decoration: none;
     color: green;
     transition: 500ms;   
